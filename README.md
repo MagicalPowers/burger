@@ -1,6 +1,9 @@
 # burger
 homework due 11/26/2019     In this assignment, you'll create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). Be sure to follow the MVC design pattern; use Node and MySQL to query and route data in your app, and Handlebars to generate your HTML.
 
+# Link's Awakening
+https://mysterious-tor-31025.herokuapp.com/
+
 ### Organization
 This node.js app uses Express to create a user-interactive front end that communicates with the node.js backend, providing CREATE, UPDATE, and READ functionality. Handlebars handles our views, we're using MySQL for data storage, and a bespoke ORM handles our routing.
 
@@ -11,7 +14,7 @@ This node.js app uses Express to create a user-interactive front end that commun
 
 * If you'd like to add a hip cheesesteak spot, do it! The page allows user-input in the form of a textbox and submit button. This should add the hip new spot to the list of yet-to-be-consumed cheesesteaks.
 
-* Now the question is cheese and accoutrements. I suggest "whiz wit" && "americam wit". 
+* Now the question is cheese and accoutrements. I suggest "whiz wit" & "american wit". 
 
 * If you normally finish your cheesesteaks early, as a bonus, try adding + "extra meat".
 
